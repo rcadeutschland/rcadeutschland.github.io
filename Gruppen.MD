@@ -1,3 +1,7 @@
+---
+layout: default
+title: RCA Gruppen
+---
 # Gruppen
 
 Gruppe | Kontakt | Termin (Stand Dezember 2014)

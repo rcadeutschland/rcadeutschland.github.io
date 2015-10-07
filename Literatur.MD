@@ -1,3 +1,7 @@
+---
+layout: default
+title: 12 Schritte von RCA
+---
 # Literatur
 
 Teile des Blauen Buches von RCA wurden übersetzt und können bis zur

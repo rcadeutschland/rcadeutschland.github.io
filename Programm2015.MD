@@ -10,8 +10,8 @@ title: Programm Deutschsprachiges Ländertreffen RCA 2015
 
 10:00 - 12:00 Eröffnungsmeeting
 
-    "Gemeinsam dem Genesungsweg
-    vertrauensvoll folgen"
+  "Gemeinsam dem Genesungsweg
+  vertrauensvoll folgen"
 
 12:00 - 13:30 Mittagspause
     (Teeküche mit Mikrowelle und Herd ist
@@ -22,8 +22,8 @@ title: Programm Deutschsprachiges Ländertreffen RCA 2015
 
 13:30 - 15:00 Meetings
 
-    1. Co-Abhängigkeit in der Partnerschaft
-    2. Elternschaft
+  1. Co-Abhängigkeit in der Partnerschaft
+  2. Elternschaft
     
 15:00 - 16:00 Pause
 
@@ -33,20 +33,21 @@ title: Programm Deutschsprachiges Ländertreffen RCA 2015
 
 20:30 - 21:30 Meetings
 
-    3. Wut in der Partnerschaft
-    4. Sexualität in der Partnerschaft
+  3. Wut in der Partnerschaft
+  4. Sexualität in der Partnerschaft
 
 ## Sonntag 25.10.2015
 
 9:00 - 10:30 Meetings
 
-    5. Verbindlichkeit in der Partnerschaft
-    6. Alte Filme in der Beziehung
+  5. Verbindlichkeit in der Partnerschaft
+  6. Alte Filme in der Beziehung
 
 10:30 - 11:00 Pause
 
 11:00 - 13:00 Abschlussmeeting
-    Den Genesungsweg mit Leichtigkeit
-    gehen :couple:
+
+  Den Genesungsweg mit Leichtigkeit
+  gehen :couple:
     
-    Anschließend Gemeinsames Aufräumen
+  Anschließend Gemeinsames Aufräumen

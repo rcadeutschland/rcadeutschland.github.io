@@ -11,5 +11,4 @@ Bitte ladet Euch das [pdf](/files/RCA-Literatur+2014.pdf) herunter und druckt es
 
 Der Flyer "Paarmeeting" als [pdf](/files/rca_flyer_2010.pdf).
 
-Das Orginalbuch (englisch) kann über die Homepage von RCA world-Service
-www.recovering-couples.org bezogen werden. 
+Das Orginalbuch (englisch) kann über die [Homepage von RCA World-Service](www.recovering-couples.org) bezogen werden. 

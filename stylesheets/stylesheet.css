@@ -8,7 +8,9 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #606c71; }
-
+nav > a {
+  color: white;
+}
 a {
   color: #1e6bb8;
   text-decoration: none; }

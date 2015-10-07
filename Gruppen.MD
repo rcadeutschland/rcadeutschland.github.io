@@ -5,7 +5,7 @@ title: RCA Gruppen
 # Gruppen
 
 | Gruppe | Kontakt | Termin (Stand Dezember 2014) |
-| ------ | ------- | ---------------------------: |
+|:------ | ------- | ---------------------------: |
 | Köln | Kontakt Thomas + Evelyn: +491711762258 bzw. thomas(punkt)karl(punkt)richter(kringel)gmail(punkt)com |jeden 1. Samstag im Monat 18:00 bis 20:00 Uhr in der KISS-Köln, Marsilstein 4-6, Nähe Neumarkt |
 | Stuttgart | Kontakt: Resi + Rudolf Tel.: 0711-76 65 06 rudolf-z(at)gmx.de | 3. Sonntag im Monat 19:00 - 21:00 Uhr Treffpunkt:RCA Stuttgart AWO-Begegnungsstätte Raum 3 70188 Stuttgart |
 | Münster | Karin und Martin: 02598-929024 | Jeden 2. Samstag im Monat 16:00 bis 18:00 Uhr in der                                         Selbsthilfe-Kontaktstelle des Paritätischen Zentrums, Dahlweg 112, 48153 Münster |

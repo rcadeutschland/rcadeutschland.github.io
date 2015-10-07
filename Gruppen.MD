@@ -5,7 +5,7 @@ title: RCA Gruppen
 # Gruppen
 
 | Gruppe | Kontakt | Termin (Stand Dezember 2014) |
-| --- | --- | ---: |
+| ------ | ------- | ---------------------------: |
 
 | Köln | Kontakt Thomas + Evelyn: +491711762258 bzw. thomas(punkt)karl(punkt)richter(kringel)gmail(punkt)com |jeden 1. Samstag im Monat 18:00 bis 20:00 Uhr in der KISS-Köln, Marsilstein 4-6, Nähe Neumarkt |
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 12 Schritte von RCA
+title: RCA Literatur
 ---
 # Literatur
 

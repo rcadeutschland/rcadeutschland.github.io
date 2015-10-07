@@ -1,3 +1,7 @@
+---
+layout: default
+title: 12 Schritte von RCA
+---
 # 12 Schritte von RCA
 
 1. Wir gaben zu, dass wir über unsere Beziehung machtlos waren und unser

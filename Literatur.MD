@@ -1,3 +1,7 @@
+---
+layout: default
+title: RCA Literatur
+---
 # Literatur
 
 Teile des Blauen Buches von RCA wurden übersetzt und können bis zur

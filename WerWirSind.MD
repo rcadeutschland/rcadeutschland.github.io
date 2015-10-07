@@ -1,3 +1,8 @@
+---
+layout: default
+title: RCA Literatur
+---
+
 # Wer wir stattfinden
 
 Wir sind eine Selbsthilfegruppe von Paaren, die sich dazu verpflichtet haben,

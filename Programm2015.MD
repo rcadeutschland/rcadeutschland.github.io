@@ -47,6 +47,6 @@ title: Programm Deutschsprachiges Ländertreffen RCA 2015
     
     11:00 - 13:00 Abschlussmeeting
         Den Genesungsweg mit Leichtigkeit
-        gehen
+        gehen :couple:
         
         Anschließend Gemeinsames Aufräumen

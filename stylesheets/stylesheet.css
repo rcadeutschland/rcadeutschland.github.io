@@ -223,6 +223,7 @@ a {
     font-size: 1rem; } }
 
 .site-footer {
+  text-align: center;
   padding-top: 2rem;
   margin-top: 2rem;
   border-top: solid 1px #eff0f1; }

@@ -3,7 +3,7 @@ layout: default
 title: RCA Literatur
 ---
 
-# Wer wir stattfinden
+# Wer wir sind
 
 Wir sind eine Selbsthilfegruppe von Paaren, die sich dazu verpflichtet haben,
 in unserer Partnerschaft eine gesündere Kommunikation, Anteilnahme und größere

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RCA Literatur
+title: RCA Beschreibung
 ---
 
 # Wer wir sind

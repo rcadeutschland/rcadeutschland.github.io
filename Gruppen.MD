@@ -11,5 +11,4 @@ title: RCA Gruppen
 | Hannover | Ulrich + Kornelia montaghannover@recovering-couples.de | 1. Montag im Monat 19:30 - 21:30 Uhr, Groß-Buchholzer-Str. 30, Hannover |
 | Münster | Karin und Martin: 02598-929024 | Jeden 2. Samstag im Monat 16:00 bis 18:00 Uhr in der                                         Selbsthilfe-Kontaktstelle des Paritätischen Zentrums, Dahlweg 112, 48153 Münster |
 | Wien | Jeden 2. und jeden 4. Sonntag im Monat 17:30 Uhr | 1230 Wien, Ziedlergasse 14 |
-| Würzburg | Klaus (0931/80499303) und Shanti (0931/88097711),E-Mail: RCA-Wuerzburg@kay-bee.de | 3. Samstag im Monat 17:00 bis 19:00 Uhr im Selbsthilfehaus Würzburg, Scanzonistr. 4, 97080 Würzburg |
 | Frankfurt/Main | Kontakt: Christiane E-Mail: frankfurt@recovering-couples.de , Tel. 0176 2355 5104 | Im Oktober ist der Termin am 31.10. von 10:30 bis 12:00 Uhr.Ort:  Selbsthilfekontaktstelle in der Jahnstraße 49 in Frankfurt/Main |

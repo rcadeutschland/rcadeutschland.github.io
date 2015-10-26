@@ -6,7 +6,7 @@ title: RCA Gruppen
 
 | Gruppe | Kontakt | Termin                       |
 |:------ | ------- | ---------------------------: |
-| Frankfurt/Main | Christiane Email: frankfurt@recovering-couples.de Tel: 0176 2355 5104 | **Im Oktober** ist der     Termin am 31.10. von 10:30 bis 12:00 Uhr in der Selbsthilfe-Kontaktstelle in der Jahnstraße 49 in Frankfurt/Main |
+| Frankfurt/Main | Christiane<br>Email: frankfurt@recovering-couples.de Tel: 0176 2355 5104 | **Im Oktober** ist der     Termin am 31.10. von 10:30 bis 12:00 Uhr in der Selbsthilfe-Kontaktstelle in der Jahnstraße 49 in Frankfurt/Main |
 | Hannover | Ulrich + Kornelia Email: montaghannover@recovering-couples.de | 1. Montag im Monat 19:30 - 21:30 Uhr,  Groß-Buchholzer-Str. 30, Hannover |
 | Köln | Thomas + Evelyn Tel: 01711762258 Email: samstagkoeln@recovering-couples.de | 1. Samstag im Monat 18:00 bis 20:00 Uhr in der KISS-Köln, Marsilstein 4-6, Nähe Neumarkt |
 | Münster | Karin + Martin Tel: 02598-929024 | 2. Samstag im Monat 16:00 bis 18:00 Uhr in der                       Selbsthilfe-Kontaktstelle des Paritätischen Zentrums, Dahlweg 112, 48153 Münster |

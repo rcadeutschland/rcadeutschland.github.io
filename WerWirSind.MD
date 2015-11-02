@@ -5,7 +5,7 @@ title: RCA Beschreibung
 
 # Wer wir sind
 
-Wir sind eine Selbsthilfegruppe von Paaren, die sich dazu verpflichtet haben,
+Wir sind eine Selbsthilfegruppe von Paaren :two_hearts:, die sich dazu verpflichtet haben,
 in unserer Partnerschaft eine gesündere Kommunikation, Anteilnahme und größere
 Intimität zu erlangen. Wir leiden an verschiedenen Abhängigkeiten und
 Coabhängigkeiten, einige davon sind uns bewusst - andere nicht, an einigen

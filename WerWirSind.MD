@@ -37,4 +37,4 @@ Spenden.
 
 RCA wurde im Jahr 1988 in Amerika aus dem Bedürfnis heraus geboren, die
 vielversprechenden Entwicklungsimpulse eines Paarseminares zu vertiefen.
-Mittlerweile gibt es über einhundert RCA-Gruppen in verschiedenen Ländern.
+Mittlerweile gibt es über 150 RCA-Gruppen in verschiedenen Ländern.

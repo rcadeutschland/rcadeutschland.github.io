@@ -6,4 +6,6 @@ title: vergangene Treffen und Protokolle Arbeitsmeetings
 
 ## vergangene Ländertreffen
 
+- [7. deutschsprachiges Treffen von RCA 24./25.10.2015 in Frankfurt/M](dateien/flyer_rca_2015.pdf)
+
 ## Protokolle Arbeitsmeetings

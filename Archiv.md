@@ -25,4 +25,4 @@ title: vergangene Treffen und Protokolle Arbeitsmeetings
   2012](http://www.recovering-couples.de/files/protokollArbeitsmeetingRCA2012.pdf)
 - [Protokoll Arbeitsmeeting 2013](http://www.recovering-couples.de/files/ProtokollArbeitsmeetingRCA23.03.2013.doc.pdf)
 - [Protokoll Arbeitsmeeting 2014](http://www.recovering-couples.de/files/ProtokollArbeitsmeetingRCA12.04.2014.doc.pdf)
-- Protokoll Arbeitsmeeting 2015
+- [Protokoll Arbeitsmeeting 2015](http://www.recovering-couples.de/files/protokollArbeitsmeetingRCA2015.pdf)

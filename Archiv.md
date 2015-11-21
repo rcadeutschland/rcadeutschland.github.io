@@ -15,14 +15,5 @@ title: vergangene Treffen und Protokolle Arbeitsmeetings
 - [7. deutschsprachiges Treffen von RCA 24./25.10.2014 in Münster](http://www.recovering-couples.de/files/RCATreffen2014.pdf) 
 - [8. (7.) deutschsprachiges Treffen von RCA 24./25.10.2015 in Frankfurt/M](http://www.recovering-couples.de/files/rca_flyer_2015.pdf)
 
-## Protokolle Arbeitsmeetings
 
-- [Protokoll Arbeitsmeeting 2009](http://www.recovering-couples.de/files/protokollRCAArbeitsmeeting2009.pdf)
-- [Protokoll Arbeitsmeeting 2010](http://www.recovering-couples.de/files/protokollRCAArbeitsmeeting2010.pdf)
-- [Protokoll Arbeitsmeeting
-  2011](http://www.recovering-couples.de/files/protokollArbeitsmeetingRCA2011.pdf)
-- [Protokoll Arbeitsmeeting
-  2012](http://www.recovering-couples.de/files/protokollArbeitsmeetingRCA2012.pdf)
-- [Protokoll Arbeitsmeeting 2013](http://www.recovering-couples.de/files/ProtokollArbeitsmeetingRCA23.03.2013.doc.pdf)
-- [Protokoll Arbeitsmeeting 2014](http://www.recovering-couples.de/files/ProtokollArbeitsmeetingRCA12.04.2014.doc.pdf)
-- [Protokoll Arbeitsmeeting 2015](http://www.recovering-couples.de/files/protokollArbeitsmeetingRCA2015.pdf)
+

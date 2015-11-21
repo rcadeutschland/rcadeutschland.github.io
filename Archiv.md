@@ -1,6 +1,6 @@
 ---
 layout: default
-title: vergangene Treffen und Protokolle Arbeitsmeetings
+title: Flyer vergangener Deutschland-Treffen 
 ---
 # Archiv
 

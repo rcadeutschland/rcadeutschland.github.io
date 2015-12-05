@@ -33,7 +33,14 @@
       |<a href="http://www.recovering-couples.org">Homepage RCA-WSO</a></div>
       |<form id="rcahidden">
         <input type="text" id="rcapw"><input type="submit" value="zum interen Bereich" id="rcasubmit">
-        <script>$(function(){$("#rcasubmit").click(function(){window.location.replace("https://www.dropbox.com/sh/nhifpvfalpktbpm/AACGcgQL8PO0t5n2Hlv"+$("#rcapw").val());}); });</script>
+        <script>
+        $(function(){
+          $("#rcasubmit").click(function(evt){
+            evt.preventDefault();
+            window.location.replace("https://www.dropbox.com/sh/nhifpvfalpktbpm/AACGcgQL8PO0t5n2Hlv"+$("#rcapw").val());
+          });
+        });
+        </script>
       </form>
     </section>
   

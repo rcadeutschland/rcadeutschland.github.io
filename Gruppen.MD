@@ -6,7 +6,7 @@ title: RCA Gruppen
 
 | Gruppe | Kontakt | Termin                       |
 |:------ | ------- | ---------------------------: |
-| Frankfurt/Main | Christiane<br>Email: <frankfurt@recovering-couples.de><br>Tel: 0176 2355 5104 | **Im Januar 2016** ist der Termin am 09.01. von 10:30 bis 12:00 Uhr im Gesundheitszentrum Schwanheim, Alt-Schwanheim 6, 60529 Frankfurt am Main. <br>Ab Februar findet das Meeting jeden 2.Samstag im Monat in der Sonnemannstraße 3, 60314 Frankfurt, 6. OG statt. |
+| Frankfurt/Main | Christiane<br>Email: <frankfurt@recovering-couples.de><br>Tel: 0176 2355 5104 | jeden 2.Samstag im Monat  von 10:30 bis 12:00 Uhr  in der Sonnemannstraße 3, 60314 Frankfurt, 6. OG |
 | Hannover | Ulrich + Kornelia<br>Email: <montaghannover@recovering-couples.de> | 1. Montag im Monat 19:30 - 21:30 Uhr,  Groß-Buchholzer-Str. 30, Hannover |
 | Köln | Thomas + Evelyn<br>Tel: 01711762258<br>Email: <samstagkoeln@recovering-couples.de> | 1. Samstag im Monat 18:00 bis 20:00 Uhr in der KISS-Köln, Marsilstein 4-6, Nähe Neumarkt |
 | Münster | Karin + Martin<br>Tel: 02598-929024<br>Email: <samstagmuenster@recovering-couples.de> | 2. Samstag im Monat 16:00 bis 18:00 Uhr  in der Selbsthilfe-Kontaktstelle des Paritätischen Zentrums, Dahlweg 112, 48153 Münster |

@@ -1,7 +1,8 @@
 name: Recovering Couples Anonymous Deutschland
 markdown: kramdown
 exclude:
-  - files
-  - images
+  - files/*.docx
   - CNAME
   - README.md
+gems:
+  - jemoji

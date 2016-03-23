@@ -7,7 +7,7 @@ title: RCA Literatur
 Teile des Blauen Buches von RCA wurden übersetzt und können bis zur
 vollständigen Übersetzung in Meetings genutzt werden.
 
-Neuübersetzung des 1. Kapitels [pdf](/files/Kapitel1RCA.red.pdf) Zum herunterladen und ausdrucken.
+[1. Kapitel pdf](/files/Kapitel1RCA.red.pdf) zum herunterladen und ausdrucken.
 
 Alte Übersetzung: Bitte ladet Euch das [pdf](/files/RCA-Literatur+2014.pdf) herunter und druckt es aus.
 

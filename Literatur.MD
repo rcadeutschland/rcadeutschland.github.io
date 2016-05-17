@@ -14,7 +14,7 @@ vollständigen Übersetzung in Meetings genutzt werden.
 
 ## Alte Übersetzung (bis 2014)
 
-[pdf](/files/RCA-Literatur+2014.pdf) herunter und druckt es aus.
+[pdf](/files/RCA-Literatur+2014.pdf) zum herunterladen und ausdrucken.
 
 ## Sonstige Texte
 

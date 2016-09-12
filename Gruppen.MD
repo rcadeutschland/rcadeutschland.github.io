@@ -12,3 +12,4 @@ title: RCA Gruppen
 | Münster | Karin + Martin<br>Tel: 02598-929024<br>Email: <samstagmuenster@recovering-couples.de> | 2. Samstag im Monat 16:00 bis 18:00 Uhr  in der Selbsthilfe-Kontaktstelle des Paritätischen Zentrums, Dahlweg 112, 48153 Münster |
 | Stuttgart | Resi + Rudolf<br>Tel.: 0711-766506<br>Email: <stuttgart@recovering-couples.de> | 3. Sonntag im Monat 19:00 - 21:00 Uhr in der AWO-Begegnungsstätte Stuttgart Raum 3, 70188 Stuttgart | 
 | Wien | ??? | 2. und jeden 4. Sonntag im Monat 17:30 Uhr in 1230 Wien, Ziedlergasse 14 |
+| Berlin | ??? | Meeting geplant, in Kürze mehr |

@@ -22,7 +22,9 @@
       {{ content }}
     </section>
      <script> alert(document.referrer);
-      if(document.referrer!=="http://www.recovering-couples.de/") then window.location="http://www.recovering-couples.de/";
+      if(document.referrer!=="http://www.recovering-couples.de/") then {
+        window.location.replace("http://www.recovering-couples.de/");
+      }
     </script>
   </body>
 </html>

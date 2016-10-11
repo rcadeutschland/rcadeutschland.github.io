@@ -11,4 +11,4 @@ title: RCA Gruppen
 | Köln | Thomas + Evelyn<br>Tel: 01711762258<br>Email: <samstagkoeln@recovering-couples.de> | 1. Samstag im Monat 18:00 bis 20:00 Uhr Haus der Selbsthilfe-Köln, Marsilstein 4-6, 50676 Köln (Nähe Neumarkt) |
 | Münster | Karin + Martin<br>Tel: 02598-929024<br>Email: <samstagmuenster@recovering-couples.de> | 2. Samstag im Monat 16:00 bis 18:00 Uhr  in der Selbsthilfe-Kontaktstelle des Paritätischen Zentrums, Dahlweg 112, 48153 Münster |
 | Stuttgart | Resi + Rudolf<br>Tel.: 0711-12025357<br>Email: <stuttgart@recovering-couples.de> | 3. Sonntag im Monat 19:00 - 21:00 Uhr in der AWO-Begegnungsstätte Stuttgart Raum 3, 70188 Stuttgart | 
-| Berlin | Tanja und Torsten<br>Email: <tannaja@gmx.de> | Meeting geplant, Start Ende 2016, in Kürze mehr |
+| Berlin | Tanja + Torsten<br>Email: <tannaja@gmx.de> | Meeting geplant, Start Ende 2016, in Kürze mehr |

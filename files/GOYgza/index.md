@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: intern
 title: Protokolle von Arbeitsmeetings vergangener Deutschland-Treffen 
 ---
 # Arbeitsmeetings

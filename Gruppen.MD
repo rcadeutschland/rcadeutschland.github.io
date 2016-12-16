@@ -6,7 +6,7 @@ title: RCA Gruppen
 
 | Gruppe | Kontakt | Termin                       |
 |:------ | ------- | ---------------------------: |
-| Berlin | Tanja + Torsten<br>Email: <tannaja@gmx.de> | Start 1.8.2017 danach jeder erste Sonntag im Monat, Im "Lebensglück Yoga", Wiesbadenerstr. 33, 14197 Berlin |
+| Berlin | Tanja + Torsten<br>Email: <tannaja@gmx.de> | Start 8.Januar 2017 danach jeder erste Sonntag im Monat, Im "Lebensglück Yoga", Wiesbadenerstr. 33, 14197 Berlin |
 | Frankfurt/Main | Christiane<br>Email: <frankfurt@recovering-couples.de><br>Tel: 0176 2355 5104 | jeden 2.Samstag im Monat  von 10:30 bis 12:00 Uhr  in der Sonnemannstraße 3, 60314 Frankfurt, 6. OG |
 | Hamburg | Sabine und Stefan<br>Tel: 040 41 49 81 15 (Sabine)<br>Tel: 0175 1 47 99 38 (Stefan)<br>Email: <isarlaenderin@gmx.de> | Ab 21. Januar 2017<br>14-tägig Samstag 18 - 20:00 Uhr<br>Stadtteilladen Eimsbüttel<br>Hellkamp 56 |
 | Hannover | Ulrich + Kornelia<br>Email: <hannover@recovering-couples.de> | 1. Montag im Monat 19:30 - 21:30 Uhr,  Groß-Buchholzer-Str. 30, Hannover |

@@ -12,6 +12,7 @@ vollständigen Übersetzung in Meetings genutzt werden.
 * [1. Kapitel pdf](/files/Kapitel1RCA.red.pdf) zum herunterladen und ausdrucken.
 * [2. Kapitel pdf](/files/FourthEditionKapitel_II.docx.pdf) zum herunterladen und ausdrucken.
 * [3. Kapitel pdf](/files/FourthEdition_Kapitel_III.pdf) zum herunterladen und ausdrucken.
+* [4. Kapitel pdf](/files/RCA-Kapitel4.pdf) zum herunterladen und ausdrucken.
 
 ## Alte Übersetzung (bis 2014)
 

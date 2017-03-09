@@ -3,7 +3,7 @@ layout: intern
 title: Protokolle von Arbeitsmeetings vergangener Deutschland-Treffen 
 ---
 # Arbeitsmeetings
-
+- [1. deutschsprachiges Treffen von RCA 26.01.2002 in Wessobrunn 1](http://www.recovering-couples.de/files/GOYgza/protokollRCAArbeitsmeeting2002-1.jpg) [2](http://www.recovering-couples.de/files/GOYgza/protokollRCAArbeitsmeeting2002-2.jpg)
 - [2. deutschsprachiges Treffen von RCA 14./15.03.2009 in Köln](http://www.recovering-couples.de/files/GOYgza/protokollRCAArbeitsmeeting2009.pdf)
 - [3. deutschsprachiges Treffen von RCA 13./14.03.2010 in Münster](http://www.recovering-couples.de/files/GOYgza/protokollRCAArbeitsmeeting2010.pdf)
 - [4. deutschsprachiges Treffen von RCA 02./03.04.2011 in Münster](http://www.recovering-couples.de/files/GOYgza/protokollArbeitsmeetingRCA2011.pdf)

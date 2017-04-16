@@ -21,5 +21,6 @@ vollständigen Übersetzung in Meetings genutzt werden.
 ## Sonstige Texte
 
 Der Flyer "Paarmeeting" als [pdf](/files/rca_flyer_2010.pdf).
+Affirmationen für Paare als [pdf](/files/AffirmationenFuerPaareRCA.pdf).
 
 Das Orginalbuch (englisch) kann über die [Homepage von RCA World-Service](http://www.recovering-couples.org) bezogen werden. 

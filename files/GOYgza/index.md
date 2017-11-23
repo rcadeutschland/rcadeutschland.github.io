@@ -12,3 +12,4 @@ title: Protokolle von Arbeitsmeetings vergangener Deutschland-Treffen
 - [7. deutschsprachiges Treffen von RCA 24./25.10.2014 in Münster](http://www.recovering-couples.de/files/GOYgza/ProtokollArbeitsmeetingRCA12.04.2014.doc.pdf) 
 - [8. deutschsprachiges Treffen von RCA 24./25.10.2015 in Frankfurt/M](http://www.recovering-couples.de/files/GOYgza/protokollArbeitsmeetingRCA2015.pdf)
 - [9. deutschsprachiges Treffen von RCA 8./9.10.2016 in Köln](http://www.recovering-couples.de/files/GOYgza/ProtokollAM-RCA2016Köln.pdf)
+- [10. deutschsprachiges Treffen von RCA 03./04.11.2017 in Wiesbaden](http://www.recovering-couples.de/files/GOYgza/protokollArbeitsmeetingRCA2017.pdf)

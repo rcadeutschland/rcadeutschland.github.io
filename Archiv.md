@@ -15,5 +15,5 @@ title: Flyer vergangener Deutschland-Treffen
 - [7. deutschsprachiges Treffen von RCA 24./25.10.2014 in Münster](http://www.recovering-couples.de/files/RCATreffen2014.pdf) 
 - [8. (7.) deutschsprachiges Treffen von RCA 24./25.10.2015 in Frankfurt/M](http://www.recovering-couples.de/files/rca_flyer_2015.pdf)
 - [9. deutschsprachiges Treffen von RCA 8./9.10.2016 in Köln](http://www.recovering-couples.de/files/RCATreffen2016.pdf)
-
+- [10. deutschsprachiges Treffen von RCA  3./5. 11. 2017 Wiesbaden](http://www.recovering-couples.de/files/FlyerRCADLT2017.pdf)
 

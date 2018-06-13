@@ -7,7 +7,12 @@ title: RCA Literatur
 Teile des Blauen Buches von RCA wurden übersetzt und können bis zur
 vollständigen Übersetzung in Meetings genutzt werden.
 
-## Neuübersetzung
+## Schritte-Arbeitsbuch (Grünes Buch)
+
+* [1. Kapitel docx](/files/RCA-GreenBookDENIAL.docx) zum herunterladen und ausdrucken.
+* [4. Kapitel docx](/files/RCA-STEP-UP.Kapitel4.docx) zum herunterladen und ausdrucken.
+
+## Blaues Buch
 
 * [1. Kapitel pdf](/files/Kapitel1RCA.red.pdf) zum herunterladen und ausdrucken.
 * [2. Kapitel pdf](/files/FourthEditionKapitel_II.docx.pdf) zum herunterladen und ausdrucken.

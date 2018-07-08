@@ -4,6 +4,8 @@ title: RCA Gruppen
 ---
 # Gruppen
 
+Änderungswünsche bitte per email <webmaster@recovering-couples.de> an das Webmaster-Team senden.
+
 | Gruppe | Kontakt | Termin                       |
 |:------ | ------- | ---------------------------: |
 | Berlin | Tanja + Torsten<br>Email: <tannaja@gmx.de> |  13:00-15:00 Uhr jeder erste Sonntag im Monat, Im "Lebensglück Yoga", Wiesbadenerstr. 33, 14197 Berlin |

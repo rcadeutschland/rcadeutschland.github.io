@@ -11,7 +11,7 @@ title: RCA Gruppen
 | Berlin | Tanja + Torsten<br>Email: <tannaja@gmx.de> |  13:00-15:00 Uhr jeder erste Sonntag im Monat, Im "Lebensglück Yoga", Wiesbadenerstr. 33, 14197 Berlin |
 | Berlin2 | Tanja + Torsten<br>Email: <tannaja@gmx.de> |  ab Juni 2017 13:15-15:15 Uhr jeder dritten Sonntag im Monat, Im "Heile Haus", Waldemarstr. 36, 10999 Berlin |
 | Frankfurt/Main | Christiane<br>Email: <frankfurt@recovering-couples.de><br>Tel: 0176 2355 5104 | jeden 4. Samstag im Monat  von 11:00 bis 12:30 Uhr  in der Sonnemannstraße 3,  60314 Frankfurt, 6. OG  *(NICHT im September+Oktober)*|
-| Hamburg | Sabine und Stefan<br>Tel: 040 41 49 81 15 (Sabine)<br>Tel: 0175 1 47 99 38 (Stefan)<br>Email: <stefanhoffmann55@yahoo.de> | nächstes Treffen 18.8.2018,<br>Samstag 18 - 20:00 Uhr<br>Stadtteilladen Eimsbüttel<br>Hellkamp 56 |
+| Hamburg | Sabine und Stefan<br>Tel: 040 41 49 81 15 (Sabine)<br>Tel: 0175 1 47 99 38 (Stefan)<br>Email: <stefanhoffmann55@yahoo.de> | nächste Treffen 15.9./29.9./13.10.,<br>Samstag 18 - 20:00 Uhr<br>Stadtteilladen Eimsbüttel<br>Hellkamp 56 |
 | Kassel | Martin & Christiane<br>Tel: 0176 34325904<br>Email: <christibueks@freenet.de> | 1. Samstag im Monat<br> bitte Anmelden per Email |
 | Köln | Thomas + Evelyn<br>Tel: 0221 98652312<br>Email: <samstagkoeln@recovering-couples.de> | 1. Samstag im Monat 18:00 bis 20:00 Uhr Haus der Selbsthilfe-Köln, Marsilstein 4-6, 50676 Köln (Nähe Neumarkt) |
 | Münster | Karin + Martin<br>Tel: 02598-929024<br>Email: <samstagmuenster@recovering-couples.de> | 2. Samstag im Monat 16:00 bis 18:00 Uhr  in der Selbsthilfe-Kontaktstelle des Paritätischen Zentrums, Dahlweg 112, 48153 Münster |

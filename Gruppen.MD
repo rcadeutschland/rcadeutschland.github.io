@@ -9,7 +9,7 @@ title: RCA Gruppen
 | Gruppe | Kontakt | Termin                       |
 |:------ | ------- | ---------------------------: |
 | Berlin | Tanja + Torsten<br>Email: <tannaja@gmx.de> |  13:15-15:15 Uhr jeder dritten Sonntag im Monat, Im "Heile Haus", Waldemarstr. 36, 10999 Berlin |
-| Frankfurt/Main | Christiane<br>Email: <frankfurt@recovering-couples.de><br>Tel: 0176 2355 5104 | jeden 4. Samstag im Monat  von 11:00 bis 12:30 Uhr  in der Sonnemannstraße 3,  60314 Frankfurt, 6. OG  *(NICHT im August,September+Oktober)*|
+| Frankfurt/Main | Christiane<br>Email: <frankfurt@recovering-couples.de><br>Tel: 0176 2355 5104 | jeden 4. Samstag im Monat  von 11:00 bis 12:30 Uhr  in der Sonnemannstraße 3,  60314 Frankfurt, 6. OG |
 | Hamburg | Sabine und Stefan<br>Tel: 040 41 49 81 15 (Sabine)<br>Tel: 0175 1 47 99 38 (Stefan)<br>Email: <stefanhoffmann55@yahoo.de> | nächste Treffen 29.9./13.10.,<br>Samstag 18 - 20:00 Uhr<br>Stadtteilladen Eimsbüttel<br>Hellkamp 56 |
 | Kassel | Martin & Christiane<br>Tel: 0176 34325904<br>Email: <christibueks@freenet.de> | 1. Samstag im Monat<br> bitte Anmelden per Email |
 | Köln | Thomas + Evelyn<br>Tel: 0221 98652312<br>Email: <samstagkoeln@recovering-couples.de> | 1. Samstag im Monat 18:00 bis 20:00 Uhr Haus der Selbsthilfe-Köln, Marsilstein 4-6, 50676 Köln (Nähe Neumarkt) |

@@ -10,7 +10,7 @@ title: RCA Gruppen
 |:------ | ------- | ---------------------------: |
 | Berlin | Tanja + Torsten<br>Email: <tannaja@gmx.de> |  13:15-15:15 Uhr jeder dritten Sonntag im Monat, Im "Heile Haus", Waldemarstr. 36, 10999 Berlin |
 | Frankfurt/Main | Christiane<br>Email: <frankfurt@recovering-couples.de><br>Tel: 0176 2355 5104 | jeden 4. Samstag im Monat  von 11:00 bis 12:30 Uhr  in der Sonnemannstraße 3,  60314 Frankfurt, 6. OG |
-| Hamburg | Lilly und Martin<br>Tel: 040/57009551<br>Email: <Martinvonderohe@gmail.com> | 2. Samstag im Monat 18 - 20:00 Uhr<br>Stadtteilladen Eimsbüttel<br>Hellkamp 56 |
+| Hamburg | Lilly und Martin<br>Tel: 040/57009551<br>Email: <Martinvonderohe@gmail.com> | jeden 2. Samstag im Monat 18 - 20:00 Uhr<br>Stadtteilladen Eimsbüttel<br>Hellkamp 56 |
 | Kassel | Martin & Christiane<br>Tel: 0176 34325904<br>Email: <christibueks@freenet.de> | 1. Samstag im Monat<br> bitte Anmelden per Email |
 | Köln | Thomas + Evelyn<br>Tel: 0221 98652312<br>Email: <samstagkoeln@recovering-couples.de> | 1. Samstag im Monat 18:00 bis 20:00 Uhr Haus der Selbsthilfe-Köln, Marsilstein 4-6, 50676 Köln (Nähe Neumarkt) |
 | Münster | Karin + Martin<br>Tel: 02598-929024<br>Email: <samstagmuenster@recovering-couples.de> | 2. Samstag im Monat 16:00 bis 18:00 Uhr  in der Selbsthilfe-Kontaktstelle des Paritätischen Zentrums, Dahlweg 112, 48153 Münster |

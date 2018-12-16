@@ -17,3 +17,6 @@ title: Flyer vergangener Deutschland-Treffen
 - [9. deutschsprachiges Treffen von RCA 8./9.10.2016 in Köln](https://www.recovering-couples.de/files/RCATreffen2016.pdf)
 - [10. deutschsprachiges Treffen von RCA  3./5. 11. 2017 Wiesbaden](https://www.recovering-couples.de/files/FlyerRCADLT2017.pdf)
 - [11. deutschsprachiges Treffen von RCA  26./28.10.2018 Stuttgart](https://www.recovering-couples.de/files/RCATreffen2018.pdf)
+
+## Programme vergangener Besinnungswochenenden von RCA
+- [1. Besinnungswochenende der Anonymen Paare in Genesung vom 6. bis 8. Juli 2018 in Bad Driburg](https://www.recovering-couples.de/files/FlyerRCABesinnungswochenende2018.pdf)

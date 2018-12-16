@@ -4,9 +4,6 @@ title: RCA Literatur
 ---
 # Literatur
 
-Teile des Blauen Buches von RCA wurden übersetzt und können bis zur
-vollständigen Übersetzung in Meetings genutzt werden.
-
 ## Schritte-Arbeitsbuch (Grünes Buch)
 
 * [1. Kapitel docx](/files/RCA-GreenBookDENIAL.docx) zum herunterladen und ausdrucken.
@@ -14,7 +11,7 @@ vollständigen Übersetzung in Meetings genutzt werden.
 
 ## Blaues Buch
 
-* [Das blaue Buch](
+* [Das deutschsprachige RCA-Buch](
 https://tredition.de/autoren/recovering-couples-anonymous-rca-25560/anonyme-paare-in-genesung-paperback-109018/) kann über den Verlag bestellt werden.
 
 ## Sonstige Texte

@@ -14,5 +14,9 @@ title: RCA Gruppen
 | Kassel | Martin & Christiane<br>Tel: 0176 34325904<br>Email: <christibueks@freenet.de> | 1. Samstag im Monat<br> bitte Anmelden per Email |
 | Köln | Thomas + Evelyn<br>Tel: 0221 519892<br>Email: <samstagkoeln@recovering-couples.de> | 1. Samstag im Monat 18:00 bis 20:00 Uhr Haus der Selbsthilfe-Köln, Marsilstein 4-6, 50676 Köln (Nähe Neumarkt) |
 | Münster | Karin + Martin<br>Tel: 02598-929024<br>Email: <samstagmuenster@recovering-couples.de> | 2. Samstag im Monat 16:00 bis 18:00 Uhr  in der Selbsthilfe-Kontaktstelle des Paritätischen Zentrums, Dahlweg 112, 48153 Münster |
-| Online-Meeting | Sabine und Matthias:<br><online.samstag@recovering-couples.de> | 3. Samstag im Monat via Google Hangout: 18-20 Uhr [Zur Teilnahme braucht ihr eine gmail-Adresse und eine <a href="mailto:thomas.karl.richter@gmail.com?subject=[Anmeldung RCA-Onlinemeeting]">Einladung</a>.] |
+| Online-Meeting | Sabine und Matthias:<br><online.samstag@recovering-couples.de> | 3. Samstag im Monat via Google Hangout: 18-20 Uhr Zur Teilnahme am Meeting benötigt Ihr eine Webcam, eine hinreichend schnelle Internetverbindung
+ ein <a href="https://accounts.google.com/SignUp">Google-Account</a>, 
+ sowie ein <a href="https://hangouts.google.com/">Google-Hangout-Plugin</a> für Euren Webbrowser (Chrome oder Firefox)</p>
+<p>Um eine Einladung zum Meeting zugeschickt zu bekommen, meldet Euch bitte zur 
+ Teilnahme <a href="mailto:kontakt@recovering-couples.de?subject=[Anmeldung zum RCA-Online-Meeting]">hier</a> an. |
 | Stuttgart | Resi + Rudolf<br>Tel.: 0711-12025357<br>Email: <stuttgart@recovering-couples.de> | 3. Sonntag im Monat 19:00 - 21:00 Uhr in der AWO-Begegnungsstätte Stuttgart, Raum 3, Ostendstraße 83, 70188 Stuttgart<br> *bitte vorher anrufen!* | 

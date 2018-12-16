@@ -14,17 +14,8 @@ vollständigen Übersetzung in Meetings genutzt werden.
 
 ## Blaues Buch
 
-* [1. Kapitel pdf](/files/Kapitel1RCA.red.pdf) zum herunterladen und ausdrucken.
-* [2. Kapitel pdf](/files/FourthEditionKapitel_II.docx.pdf) zum herunterladen und ausdrucken.
-* [3. Kapitel pdf](/files/FourthEdition_Kapitel_III.pdf) zum herunterladen und ausdrucken.
-* [4. Kapitel pdf](/files/RCA-Kapitel4.pdf) zum herunterladen und ausdrucken.
-* [6. Kapitel pdf](/files/RCAkapitel6.pdf) zum herunterladen und ausdrucken.
-* [7. Kapitel pdf](/files/RCAkapitel7.pdf) zum herunterladen und ausdrucken.
-* [Anhang pdf](/files/RCA-Appendix.pdf) zum herunterladen und ausdrucken.
-
-## Alte Übersetzung (bis 2014)
-
-[pdf](/files/RCA-Literatur+2014.pdf) zum herunterladen und ausdrucken.
+* [Das blaue Buch](
+https://tredition.de/autoren/recovering-couples-anonymous-rca-25560/anonyme-paare-in-genesung-paperback-109018/) kann über den Verlag bestellt werden.
 
 ## Sonstige Texte
 

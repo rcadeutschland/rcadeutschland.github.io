@@ -10,4 +10,4 @@ Das 2. RCA-Besinnungswochenende findet vom 5. Juli 2019 bis  7. Juli 2019 in Bad
 
 ## 12. DLT im Herbst 2019 in Berlin
 
-Näheres in Kürze hier...
+es findet vom 18. bis 20.10.2019 in Berlin Kreuzberg im Familienzentrum statt. [Anmeldung]()

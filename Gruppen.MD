@@ -8,7 +8,7 @@ title: RCA Gruppen
 
 | Gruppe | Kontakt | Termin                       |
 |:------ | ------- | ---------------------------: |
-| Berlin | Tanja + Torsten<br>Email: <tannaja@gmx.de> |  13:15-15:15 Uhr jeder 3. Sonntag im Monat, Kreuzberger Stadtteilzentrum, Lausitzer Str. 8, 10997 Berlin |
+| Berlin | Tanja + Torsten<br>Email: <tannaja@gmx.de> |  13:15-15:15 Uhr jeder 3. Sonntag im Monat, Heile Haus, Waldemarstr. 36, 10999 Berlin |
 | Frankfurt/Main | Christiane<br>Email: <frankfurt@recovering-couples.de><br>Tel: 0176 2355 5104 | jeden 4. Samstag im Monat  von 11:00 bis 12:30 Uhr  in der Sonnemannstraße 3,  60314 Frankfurt, 6. OG |
 | Frankfurt/Main Schritte-Arbeitsmeeting | Christiane<br>Email: <frankfurt@recovering-couples.de><br>Tel: 0176 2355 5104 | **ab April** <br>jeden 3. Freitag im Monat  von 18:30 bis 20:00 Uhr  in der Sonnemannstraße 3,  60314 Frankfurt, 6. OG |
 | Hamburg | Lilly und Martin<br>Tel: 040/57009551<br>Email: <samstag.hamburg@recovering-couples.de> | Meeting alle 2 Wochen Samstag in den ungeraden Kalenderwochen. <br>18 - 20:00 Uhr<br> Bitte unbedingt vorher anrufen!<br>Stadtteilladen Eimsbüttel<br>Hellkamp 56 |

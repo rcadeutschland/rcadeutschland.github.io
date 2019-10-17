@@ -15,6 +15,8 @@ https://tredition.de/autoren/recovering-couples-anonymous-rca-25560/anonyme-paar
 * [4. Kapitel docx](/files/RCA-STEP-UP.Kapitel4.docx) zum herunterladen und ausdrucken.
 * [Schritt 1](/files/RCA-GreenBookSTEPONEzGL.docx) zum herunterladen und ausdrucken.
 * [Schritt 2](/files/RCA-GreenBookSTEPTWOzGL.docx) zum herunterladen und ausdrucken.
+* [Schritt 5](/files/5.Schritt.pdf) zum herunterladen und ausdrucken.
+* [Schritt 6](/files/6.Schritt.pdf) zum herunterladen und ausdrucken.
 
 
 ## Sonstige Texte

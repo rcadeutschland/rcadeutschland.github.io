@@ -4,7 +4,7 @@ title: 12 Schritte von RCA
 ---
 # 12 Schritte von RCA
 
-1. Wir gaben zu, dass wir über unsere Beziehung gegenüber machtlos sind - und unser
+1. Wir gaben zu, dass wir unserer Beziehung gegenüber machtlos sind - und unser
    gemeinsames Leben nicht mehr meistern konnten.
 
 2. Wir kamen zu dem Glauben, dass eine Macht größer als wir selbst, uns unsere

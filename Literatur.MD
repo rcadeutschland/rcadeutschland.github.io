@@ -11,12 +11,13 @@ https://tredition.de/autoren/recovering-couples-anonymous-rca-25560/anonyme-paar
 
 ## Schritte-Arbeitsbuch (Grünes Buch)
 
-* [1. Kapitel docx](/files/RCA-GreenBookDENIAL.docx) zum herunterladen und ausdrucken.
-* [4. Kapitel docx](/files/RCA-STEP-UP.Kapitel4.docx) zum herunterladen und ausdrucken.
-* [Schritt 1](/files/RCA-GreenBookSTEPONEzGL.docx) zum herunterladen und ausdrucken.
-* [Schritt 2](/files/RCA-GreenBookSTEPTWOzGL.docx) zum herunterladen und ausdrucken.
-* [Schritt 5](/files/5.Schritt.pdf) zum herunterladen und ausdrucken.
-* [Schritt 6](/files/6.Schritt.pdf) zum herunterladen und ausdrucken.
+* [Verleugnung durchbrechen](/files/RCA-GreenBookDENIAL.pdf) zum herunterladen und ausdrucken
+* DER BEGINN: [Erster Schritt](/files/1.Schritt.pdf)
+* WIR KAMEN ZU DEM GLAUBEN: [Zweiter Schritt](/files/2.Schritt.pdf)
+* WIR DREI IN BEZIEHUNG: [Dritter Schritt](/files/3.Schritt.pdf)
+* MEINE SACHEN, DEINE SACHEN, UNSRE SACHEN: [Vierter Schritt](/files/4.Schritt.pdf)
+* WIR SIND NUR SO KRANK WIE UNSERE GEHEIMNISSE: [Fünfter Schritt](/files/5.Schritt.pdf)
+* UMDENKEN UND BEREIT WERDEN: [Der Sechste Schritt](/files/6.Schritt.pdf)
 
 
 ## Sonstige Texte

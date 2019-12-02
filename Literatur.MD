@@ -11,6 +11,7 @@ https://tredition.de/autoren/recovering-couples-anonymous-rca-25560/anonyme-paar
 
 ## Schritte-Arbeitsbuch (Grünes Buch)
 
+* [Gebrauch des Buches](/files/GebrauchDesBuches.pdf)
 * [Verleugnung durchbrechen](/files/RCA-GreenBookDENIAL.pdf) zum herunterladen und ausdrucken
 * DER BEGINN: [Erster Schritt](/files/1.Schritt.pdf)
 * WIR KAMEN ZU DEM GLAUBEN: [Zweiter Schritt](/files/2.Schritt.pdf)

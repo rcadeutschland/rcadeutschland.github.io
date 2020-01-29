@@ -9,7 +9,7 @@ title: RCA Literatur
 * [Das deutschsprachige RCA-Buch](
 https://tredition.de/autoren/recovering-couples-anonymous-rca-25560/anonyme-paare-in-genesung-paperback-109018/) kann über den Verlag bestellt werden.
 
-## Schritte-Arbeitsbuch (Grünes Buch)
+## Schritte zur Liebe (Schritte-Arbeitsbuch)
 
 * [Gebrauch des Buches](/files/GebrauchDesBuches.pdf)
 * [Verleugnung durchbrechen](/files/RCA-GreenBookDENIAL.pdf) zum herunterladen und ausdrucken

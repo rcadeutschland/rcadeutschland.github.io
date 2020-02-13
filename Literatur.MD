@@ -19,6 +19,7 @@ https://tredition.de/autoren/recovering-couples-anonymous-rca-25560/anonyme-paar
 * MEINE SACHEN, DEINE SACHEN, UNSRE SACHEN: [Vierter Schritt](/files/4.Schritt.pdf)
 * WIR SIND NUR SO KRANK WIE UNSERE GEHEIMNISSE: [Fünfter Schritt](/files/5.Schritt.pdf)
 * UMDENKEN UND BEREIT WERDEN: [Der Sechste Schritt](/files/6.Schritt.pdf)
+* UNGESTÖRTE VERBINDUNG: [Schritt Elf](/files/11.Schritt.pdf)
 * [Anhang A](/files/Anhang-A.pdf)
 
 

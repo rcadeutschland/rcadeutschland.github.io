@@ -25,8 +25,8 @@ https://tredition.de/autoren/recovering-couples-anonymous-rca-25560/anonyme-paar
 
 ## Sonstige Texte
 
-Blaues Buch - Index der 52 Tagesmeditationen für Paargenesung als [pdf](/files/IndexTagesmeditationen.pdf).
 Der Flyer "Paarmeeting" als [pdf](/files/rca_flyer_2010.pdf).
 Affirmationen für Paare als [pdf](/files/AffirmationenFuerPaareRCA.pdf).
+Blaues Buch - Index der 52 Tagesmeditationen für Paargenesung als [pdf](/files/IndexTagesmeditationen.pdf).
 
 Das Orginalbuch (englisch) kann über die [Homepage von RCA World-Service](http://www.recovering-couples.org) bezogen werden. 

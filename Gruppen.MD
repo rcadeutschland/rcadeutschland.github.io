@@ -9,7 +9,7 @@ title: RCA Gruppen
 | Gruppe | Kontakt | Termin                       |
 |:------ | ------- | ---------------------------: |
 | Berlin | Tanja + Torsten<br>Email: <tannaja@gmx.de> | 13:15-15:15 Uhr jeder 3. Sonntag im Monat, Heile Haus, Waldemarstr. 36, 10999 Berlin |
-| Berlin | Tom & Floortje<br>Email: <tominberlin@mailbox.org><br>Tel: 0157 52388447 | 17:30-19:00 jeden 2. und 4. Sonntag im Monat, Familienzentrum am Mehringdamm, Mehringdamm 114, 10965 Berlin |
+| Berlin | Tom & Floortje<br>Email: <tominberlin@mailbox.org><br>Tel: 0157 52388447 | 17:30-19:00 jeden 2. und 4. Sonntag im Monat, Bilinguale Meetings - englisch und deutsch, Familienzentrum am Mehringdamm, Mehringdamm 114, 10965 Berlin |
 | Frankfurt/Main | Christiane<br>Email: <frankfurt@recovering-couples.de><br>Tel: 0176 2355 5104 | jeden 4. Samstag im Monat  von 11:00 bis 12:30 Uhr  in der Frankfurt City Church, Ludwigstraße 29, 60327 Frankfurt |
 | Kassel | Martin & Christiane<br>Tel: 0176 34325904<br>Email: <christibueks@freenet.de> | 1. Samstag im Monat<br> bitte Anmelden per Email |
 | Köln | Thomas + Evelyn<br>Tel: 0221 519892<br>Email: <samstagkoeln@recovering-couples.de> | 1. Samstag im Monat 18:00 bis 20:00 Uhr Haus der Selbsthilfe-Köln, Marsilstein 4-6, 50676 Köln (Nähe Neumarkt) |

@@ -21,7 +21,6 @@ https://tredition.de/autoren/recovering-couples-anonymous-rca-25560/anonyme-paar
 * UMDENKEN UND BEREIT WERDEN: [Der Sechste Schritt](/files/6.Schritt.pdf)
 * GOTT ÜBERLASSEN: [Siebter Schritt](/files/7.Schritt.pdf)
 * NEU GEBOREN UND BLEIBEN: [Zehnter Schritt](/files/10.Schritt.pdf)
-* UNGESTÖRTE VERBINDUNG: [Schritt Elf](/files/11.Schritt.pdf)
 * [Anhang A](/files/Anhang-A.pdf)
 
 

@@ -6,9 +6,9 @@ title: Flyer vergangener Deutschland-Treffen
 
 ## Programme vergangener deutschsprachiger Ländertreffen von RCA
 
-- [1. deutschsprachiges Treffen von RCA 26.01.2002 in Wessobrunn](https://www.recovering-couples.de/Archiv) (kein Flyer vorhanden)
-- [2. deutschsprachiges Treffen von RCA 14./15.03.2009 in Köln](https://www.recovering-couples.de/files/RCATreffen2009.pdf)
-- [3. deutschsprachiges Treffen von RCA 13./14.03.2010 in Münster](https://www.recovering-couples.de/files/RCATreffen2010.pdf)
+- [1. deutschsprachiges Treffen von RCA 26.01.2002 in Wessobrunn](Archiv.html) (kein Flyer vorhanden)
+- [2. deutschsprachiges Treffen von RCA 14./15.03.2009 in Köln](files/RCATreffen2009.pdf)
+- [3. deutschsprachiges Treffen von RCA 13./14.03.2010 in Münster](files/RCATreffen2010.pdf)
 - [4. deutschsprachiges Treffen von RCA 02./03.04.2011 in Münster](https://www.recovering-couples.de/files/RCATreffen2011.pdf)
 - [5. (4.) deutschsprachiges Treffen von RCA 24./25.10.2012 in Würzburg](https://www.recovering-couples.de/files/RCATreffen2012.pdf)
 - [6. (5.) deutschsprachiges Treffen von RCA 24./25.10.2013 in Köln](https://www.recovering-couples.de/files/RCATreffen2013.pdf)

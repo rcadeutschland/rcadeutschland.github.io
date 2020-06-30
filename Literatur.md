@@ -20,7 +20,7 @@ https://tredition.de/autoren/recovering-couples-anonymous-rca-25560/anonyme-paar
 * WIR SIND NUR SO KRANK WIE UNSERE GEHEIMNISSE: [Fünfter Schritt](files/5.Schritt.pdf)
 * UMDENKEN UND BEREIT WERDEN: [Der Sechste Schritt](files/6.Schritt.pdf)
 * GOTT ÜBERLASSEN: [Siebter Schritt](files/7.Schritt.pdf)
-* SICH ORIENTIEREN DAS RICHTIGE ZU TUN: [Achter Schritt](files/8.Schritt.pdf)
+* SICH ORIENTIEREN, DAS RICHTIGE ZU TUN: [Achter Schritt](files/8.Schritt.pdf)
 * NEU GEBOREN UND BLEIBEN: [Zehnter Schritt](files/10.Schritt.pdf)
 * [Anhang A](files/Anhang-A.pdf)
 

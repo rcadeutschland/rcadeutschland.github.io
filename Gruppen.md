@@ -8,8 +8,8 @@ title: RCA Gruppen
 
 | Gruppe | Kontakt | Termin                       |
 |:------ | ------- | ---------------------------: |
-| Berlin | Tom & Floortje<br>Email: <tominberlin@mailbox.org><br>Tel: 0157 52388447 | 3. Sonntag (13:15 - 15:15) auf Zoom ID 499-499-1999, Passwort ist 123456 |
-| Frankfurt/Main | Christiane<br>Email: <frankfurt@recovering-couples.de><br>Tel: 0176 2355 5104 | jeden 4. Samstag im Monat  von 11:00 bis 12:30 Uhr<br>Um teilzunehmen schreibt bitte eine Mail um die Zugangsdaten zu erhalten.<br>Zoom Online Meeting |
+| Berlin | Tom & Floortje<br>Email: <tominberlin@mailbox.org><br>Tel: 0157 52388447 | 3. Sonntag im Monat im Heilehausum 13.15 Uhr<br>Waldemarstraße 36, 10999 Berlin<br>Treppe Links im Hinterhof, dann 3.OG |
+| Frankfurt/Main | Christiane<br>Email: <frankfurt@recovering-couples.de><br>Tel: 0176 2355 5104 | jeden 4. Samstag im Monat von 11:00 bis 12:30 Uhr<br>Um teilzunehmen schreibt bitte eine Mail um die Zugangsdaten zu erhalten.<br>Zoom Online Meeting |
 | Kassel | Martin & Christiane<br>Tel: 0176 34325904<br>Email: <christibueks@freenet.de> | 1. Samstag im Monat<br> bitte Anmelden per Email |
 | Köln | Thomas + Evelyn<br>Tel: 0221 519892<br>Email: <samstagkoeln@recovering-couples.de> | 1. Samstag im Monat 18:00 bis 20:00 Uhr GoogleHangout Onlinemeeting |
 | Münster | Karin + Martin<br>Tel: 02598-929024<br>Email: <samstagmuenster@recovering-couples.de> | 2. Samstag im Monat 16:00 bis 18:00 Uhr  in der Selbsthilfe-Kontaktstelle des Paritätischen Zentrums, Dahlweg 112, 48153 Münster |

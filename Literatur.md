@@ -25,6 +25,8 @@ https://tredition.de/autoren/recovering-couples-anonymous-rca-25560/anonyme-paar
 * NEU GEBOREN UND BLEIBEN: [Zehnter Schritt](files/10.Schritt.pdf)
 * [Anhang A](files/Anhang-A.pdf)
 
+* [Paar-Werschätzung](files/Paar-Wertschätzung.pdf)
+
 
 ## Sonstige Texte
 

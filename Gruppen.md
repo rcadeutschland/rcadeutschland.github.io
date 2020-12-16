@@ -8,7 +8,7 @@ title: RCA Gruppen
 
 | Gruppe | Kontakt | Termin                       |
 |:------ | ------- | ---------------------------: |
-| Berlin | Tom & Floortje<br>Email: <tominberlin@mailbox.org><br>Tel: 0157 52388447 | 3. Sonntag im Monat um 13.15 Uhr im Heilehaus<br>Waldemarstraße 36, 10999 Berlin<br>Treppe Links im Hinterhof, dann 3.OG |
+| Berlin | Tom & Floortje<br>Email: <tominberlin@mailbox.org><br>Tel: 0157 52388447 | 3. Sonntag im Monat um 13.15 Uhr <br>Das Meeting findet als Zoom Meeting statt<br>den Link bekommt ihr von Tom und Floortje |
 | Frankfurt/Main | Christiane<br>Email: <frankfurt@recovering-couples.de><br>Tel: 0176 2355 5104 | jeden 4. Samstag im Monat von 11:00 bis 12:30 Uhr<br>Um teilzunehmen schreibt bitte eine Mail um die Zugangsdaten zu erhalten.<br>Zoom Online Meeting |
 | Kassel | Martin & Christiane<br>Tel: 0176 34325904<br>Email: <christibueks@freenet.de> | 1. Samstag im Monat<br> bitte Anmelden per Email |
 | Köln | Thomas + Evelyn<br>Tel: 0221 519892<br>Email: <samstagkoeln@recovering-couples.de> | 1. Samstag im Monat 18:00 bis 20:00 Uhr<br>Das Meeting findet coronabedingt zur Zeit nicht statt und wurde deshalb mit dem OnlineMeeting <online.samstag@recovering-couples.de> zusammen gelegt |

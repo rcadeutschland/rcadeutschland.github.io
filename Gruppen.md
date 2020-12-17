@@ -5,6 +5,7 @@ title: RCA Gruppen
 # Gruppen
 
 Änderungswünsche bitte per email <webmaster@recovering-couples.de> an das Webmaster-Team senden.
+Hinweis für Handy: Tabelle lässt sich horizontal scrollen <- Gruppe, Kontakt, Termin  ->
 
 | Gruppe | Kontakt | Termin                       |
 |:------ | ------- | ---------------------------: |

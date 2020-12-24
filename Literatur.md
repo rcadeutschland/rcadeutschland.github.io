@@ -23,6 +23,8 @@ https://tredition.de/autoren/recovering-couples-anonymous-rca-25560/anonyme-paar
 * GOTT ÜBERLASSEN: [Siebter Schritt](files/7.Schritt.pdf)
 * SICH ORIENTIEREN, DAS RICHTIGE ZU TUN: [Achter Schritt](files/8.Schritt.pdf)
 * NEU GEBOREN UND BLEIBEN: [Zehnter Schritt](files/10.Schritt.pdf)
+* UNGESTÖRTE VERBINDUNG: Elfter Schritt
+* GLÜCKLICH UND HILFREICH BIS ANS ENDE: [Zwölfter Schritt](files/12.Schritt.pdf)
 * [Anhang A](files/Anhang-A.pdf)
 
 * [Paar-Werschätzung](files/Paar-Wertschaetzung.pdf)

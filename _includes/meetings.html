@@ -1,7 +1,10 @@
 ## Meetingsliste
 
-{% assign filesx = site.static_files | where_exp: "item", "item.extname == '.pdf' " %}
-{%  for file in filesx %}
-  <p>{{ file.basename }} {{ file.extname }}</p >
+{% assign meetings = site.data.meetings | sort: "date" %}
+<ul>
+{%  for meeting in meetings %}
+  <li><b>{{ meeting.ort }}</b> {{ meeting.kontakt }}<br>
+  {{ meeting.date }} {{ meeting.comment }}</li>
 {% endfor %}
+</ul>
 ---

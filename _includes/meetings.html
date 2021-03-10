@@ -1,0 +1,7 @@
+## Meetingsliste
+
+{% assign filesx = site.static_files | where_exp: "item", "item.extname == '.pdf' " %}
+{%  for file in filesx %}
+  <p>{{ file.basename }} {{ file.extname }}</p >
+{% endfor %}
+---

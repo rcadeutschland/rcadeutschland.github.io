@@ -10,7 +10,7 @@ Hinweis für Handy: Tabelle lässt sich horizontal scrollen <- Gruppe, Kontakt, 
 
 | Gruppe | Kontakt | Termin                       |
 |:------ | ------- | ---------------------------: |
-| Berlin | Tom & Floortje<br>Email: <tominberlin@mailbox.org><br>Tel: 0157 52388447 | 3. Sonntag im Monat um 13.15 Uhr <br>Das Meeting findet als Zoom Meeting statt<br>Wer zur Teilnahme den link zugeschickt haben möchte, wendet sich bitte an Regina, Tel. 0176-64042834 oder per Mail an privat@reginawagener.de |
+| Berlin | Livia & Dominik<br>Tel:  0176-63828378<br>Email: <livlm@gmx.de> | 3. Sonntag im Monat 10-12 Uhr <br>Das Meeting findet als Zoom Meeting statt<br>Wer zur Teilnahme den link zugeschickt haben möchte, bitte Kontakt aufnehmen. |
 | Kassel | Martin & Christiane<br>Tel: 0176 34325904<br>Email: <christibueks@freenet.de> | 1. Samstag im Monat<br> bitte Anmelden per Email |
 | Köln | Thomas + Evelyn<br>Tel: 0221 519892<br>Email: <samstagkoeln@recovering-couples.de> | 1. Samstag im Monat 18:00 bis 20:00 Uhr<br>Das Meeting findet coronabedingt zur Zeit nicht statt und wurde deshalb mit dem OnlineMeeting <online.samstag@recovering-couples.de> zusammen gelegt |
 | Münster | Karin + Martin<br>Tel: 02598-929024<br>Email: <samstagmuenster@recovering-couples.de> | pausiert coronabedingt, auch kein lokaler online-Ersatz |

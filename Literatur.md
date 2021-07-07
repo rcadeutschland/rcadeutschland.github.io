@@ -11,6 +11,8 @@ https://tredition.de/autoren/recovering-couples-anonymous-rca-25560/anonyme-paar
 
 ## Schritte zur Liebe (Schritte-Arbeitsbuch)
 
+* [Vorwort der Übersetzer](files/VorwortDerUebersetzer.pdf)
+* [Einleitung](files/Einleitung.pdf)
 * [Vorwort](files/VORWORT.pdf)
 * [Gebrauch des Buches](files/GebrauchDesBuches.pdf)
 * [Verleugnung durchbrechen](files/RCA-GreenBookDENIAL.pdf) zum herunterladen und ausdrucken
@@ -24,10 +26,12 @@ https://tredition.de/autoren/recovering-couples-anonymous-rca-25560/anonyme-paar
 * SICH ORIENTIEREN, DAS RICHTIGE ZU TUN: [Achter Schritt](files/8.Schritt.pdf)
 * SCHMERZEN UND FREUDEN DER WIEDERGEBURT: [Neunter Schritt](files/9.Schritt.pdf)
 * NEU GEBOREN UND BLEIBEN: [Zehnter Schritt](files/10.Schritt.pdf)
-* UNGESTÖRTE VERBINDUNG: Elfter Schritt
+* UNGESTÖRTE VERBINDUNG: [Elfter Schritt](files/11.Schritt.pdf)
 * GLÜCKLICH UND HILFREICH BIS ANS ENDE: [Zwölfter Schritt](files/12.Schritt.pdf)
 * [Anhang A](files/Anhang-A.pdf)
 * [Anhang B](files/Anhang-B.pdf)
+* [Anhang D](files/Anhang-D.pdf)
+* [Anhang E](files/Anhang-E.pdf)
 
 * [Paar-Werschätzung](files/Paar-Wertschaetzung.pdf)
 * [Gebete für Paare](files/GebeteFuerPaare.pdf)

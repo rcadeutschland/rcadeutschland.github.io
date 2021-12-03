@@ -11,8 +11,8 @@ https://tredition.de/autoren/recovering-couples-anonymous-rca-25560/anonyme-paar
 
 ## Schritte zur Liebe (Schritte-Arbeitsbuch)
 
-* Das Arbeitsbuch <b>Schritte zur Liebe</b> kann über den [Verlag](https://shop.tredition.com/booktitle/Schritte_zur_Liebe/W-1_165430) oder über [bücher.de](https://www.buecher.de/shop/buecher/schritte-zur-liebe/paare-in-genesung-rca/products_products/detail/prod_id/62831021/) bestellt werden.
 <p><img src="images/SchritteZurLiebe.png"></p>
+* Das Arbeitsbuch <b>Schritte zur Liebe</b> kann über den [Verlag](https://shop.tredition.com/booktitle/Schritte_zur_Liebe/W-1_165430) oder über [bücher.de](https://www.buecher.de/shop/buecher/schritte-zur-liebe/paare-in-genesung-rca/products_products/detail/prod_id/62831021/) bestellt werden.
 
 
 

@@ -16,4 +16,4 @@ Hinweis für Handy: Tabelle lässt sich horizontal scrollen <- Gruppe, Kontakt, 
 | Online-Meeting Sonntag | Norbert iGm Regina<br>0162-4025893<br><nw@norbertwagener.de><br>Regina iGm Norbert<br>0176-64042834<br><privat@reginawagener.de> | Sonntag via Zoom: 19:30-21:00 Uhr Zur Teilnahme am Meeting benötigt Ihr eine Webcam<br> eine hinreichend schnelle Internetverbindung<br>*zoom link per email* |
 | Stuttgart | Resi + Rudolf<br>Tel.: 0711-12025357<br>Email: <stuttgart@recovering-couples.de> | 3. Sonntag im Monat 19:00 - 21:00 Uhr in der AWO-Begegnungsstätte Stuttgart, Raum 3, Ostendstraße 83, 70188 Stuttgart<br> *bitte vorher anrufen!* | 
 | Überlingen | Günter + Shawna<br>Tel.: 0151 2688 9757<br>Email: <we3@posteo.de> | Mail uns oder ruf uns bitte an um die Meeting Information zu bekommen. We can also do meetings in English. |
-| Ulm | Sören + Jacqueline<br>Tel.: 0179-5175192<br>Email: <info@rca-ulm.de> | 1. Sonntag im Monat<br> *Bitte per Email oder Telefon Zeit und Ort erfragen.* |
+| Ulm | Sören + Jacqueline<br>Tel.: 0173-6167394<br>Email: <info@rca-ulm.de> | 1. Sonntag im Monat<br> *Bitte per Email oder Telefon Zeit und Ort erfragen.* |

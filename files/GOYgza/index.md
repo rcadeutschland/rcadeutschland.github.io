@@ -15,6 +15,7 @@ title: Protokolle von Arbeitsmeetings vergangener Deutschland-Treffen
 - [10. deutschsprachiges Treffen von RCA 03./04.11.2017 in Wiesbaden](https://www.recovering-couples.de/files/GOYgza/protokollArbeitsmeetingRCA2017.pdf)
 - [11. deutschsprachiges Treffen von RCA 27.10.2018 in Stuttgart](https://www.recovering-couples.de/files/GOYgza/protokollArbeitsmeetingRCA2018.pdf)
 - [12. deutschsprachiges Treffen von RCA 19.10.2019 in Berlin](https://www.recovering-couples.de/files/GOYgza/protokollArbeitsmeetingRCA2019.pdf)
-- [13. deutschsprachiges Treffen von RCA 07.03.2021 in Zoom](https://www.recovering-couples.de/files/GOYgza/protokollArbeitsmeetingRCA2021.pdf)
-- [14. deutschsprachiges Treffen von RCA XX.XX.2022 in Zoom](https://www.recovering-couples.de/files/GOYgza/protokollArbeitsmeetingRCA2022.pdf) fehlt!
-- [15. deutschsprachiges Treffen von RCA 19.08.2023 in Zoom](https://www.recovering-couples.de/files/GOYgza/protokollArbeitsmeetingRCA2023.pdf)
+- [13. deutschsprachiges Treffen von RCA 26.09.2020 in Münster](https://www.recovering-couples.de/files/GOYgza/protokollArbeitsmeetingRCA2020.pdf) fehlt!
+- [14. deutschsprachiges Treffen von RCA 07.03.2021 in Zoom](https://www.recovering-couples.de/files/GOYgza/protokollArbeitsmeetingRCA2021.pdf)
+- [15. deutschsprachiges Treffen von RCA 15.10.2022 in Ulm](https://www.recovering-couples.de/files/GOYgza/protokollArbeitsmeetingRCA2022.pdf) fehlt!
+- [15. deutschsprachiges Treffen von RCA 19.08.2023 in Münster](https://www.recovering-couples.de/files/GOYgza/protokollArbeitsmeetingRCA2023.pdf)

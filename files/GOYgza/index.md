@@ -16,5 +16,5 @@ title: Protokolle von Arbeitsmeetings vergangener Deutschland-Treffen
 - [11. deutschsprachiges Treffen von RCA 27.10.2018 in Stuttgart](https://www.recovering-couples.de/files/GOYgza/protokollArbeitsmeetingRCA2018.pdf)
 - [12. deutschsprachiges Treffen von RCA 19.10.2019 in Berlin](https://www.recovering-couples.de/files/GOYgza/protokollArbeitsmeetingRCA2019.pdf)
 - [13. deutschsprachiges Treffen von RCA 07.03.2021 in Zoom](https://www.recovering-couples.de/files/GOYgza/protokollArbeitsmeetingRCA2021.pdf)
-- [14. deutschsprachiges Treffen von RCA XX.2022 in Zoom](https://www.recovering-couples.de/files/GOYgza/protokollArbeitsmeetingRCA2022.pdf) fehlt!
+- [14. deutschsprachiges Treffen von RCA XX.XX.2022 in Zoom](https://www.recovering-couples.de/files/GOYgza/protokollArbeitsmeetingRCA2022.pdf) fehlt!
 - [15. deutschsprachiges Treffen von RCA 19.08.2023 in Zoom](https://www.recovering-couples.de/files/GOYgza/protokollArbeitsmeetingRCA2023.pdf)
